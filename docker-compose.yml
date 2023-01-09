@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  hlds:
+    build: .
+    ports:
+      - "27015:27015"
+      - "27015:27015/udp"
+    environment:
+      - RCON_PASSWORD="1032325640"
+      - SV_PASSWORD=""
+      - MAXPLAYERS="16"
+      - MAPNAME="fy_pool_day"
