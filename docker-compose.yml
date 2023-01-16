@@ -9,5 +9,5 @@ services:
     environment:
       - RCON_PASSWORD="1032325640"
       - SV_PASSWORD=""
-      - MAXPLAYERS="16"
+      - MAXPLAYERS="20"
       - MAPNAME="fy_pool_day"
