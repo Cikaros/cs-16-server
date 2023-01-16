@@ -1,6 +1,11 @@
-www.Fenix.lt
-www.CSDOWNLOAD.lt
-www.CyberSports.lt
-www.Redirektas.lt
+Aztec - Defusion
+by Chris Auty (Barney) (narby@counter-strike.net)
+Texture builds by Macman 
 
-EVERYTHING FOR COUNTER-STRIKE 1.6
+Counter-Terrorists: Prevent the Terrorists
+bombing the archeological site.
+
+Terrorists: Destroy the valuable Aztec ruins.
+
+Other Notes: There are 2 bomb sites in this 
+mission.

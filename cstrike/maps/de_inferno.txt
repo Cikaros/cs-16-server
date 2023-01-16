@@ -1,6 +1,14 @@
-www.Fenix.lt
-www.CSDOWNLOAD.lt
-www.CyberSports.lt
-www.Redirektas.lt
+Inferno - Defusion
+by Chris Auty (Barney) (narby@counter-strike.net)
+Texture builds by Valve software
 
-EVERYTHING FOR COUNTER-STRIKE 1.6
+Terrorist are attempting to blow up two critical
+gas pipeline through part of a small village.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the pipelines.
+
+Terrorists: Destroy the two gas pipelines.
+
+Other Notes: There are 2 bomb sites in this 
+mission.

@@ -1,6 +1,13 @@
-www.Fenix.lt
-www.CSDOWNLOAD.lt
-www.CyberSports.lt
-www.Redirektas.lt
+Militia - Hostage Rescue
+by Andrew Aumann (andrewja@home.com)
 
-EVERYTHING FOR COUNTER-STRIKE 1.6
+Counter-Terrorists: Enter Cliffe's 
+Compound to rescue the hostages. Take 
+out the Terrorists without jeopardizing 
+the hostages.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes: There are 4 hostages in 
+the mission and one floater.

@@ -1,5 +1,4 @@
 FROM kriansa/cs-16:2018-12-24
-LABEL maintainer="Daniel Pereira <daniel@garajau.com.br>"
 
 # Runtime settings
 ENV RCON_PASSWORD="1032325640"

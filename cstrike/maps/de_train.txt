@@ -1,6 +1,12 @@
-www.Fenix.lt
-www.CSDOWNLOAD.lt
-www.CyberSports.lt
-www.Redirektas.lt
+Trainyard - Bomb/Defuse
 
-EVERYTHING FOR COUNTER-STRIKE 1.6
+Counter-Terrorists: Prevent Terrorists
+from bombing the nuclear payloads on two
+trains. Team members must defuse any 
+bombs that threaten the payloads.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the payloads. 
+
+Other Notes: There are 2 payloads on the
+trains in the mission.

@@ -1,0 +1,16 @@
+Snowflake - Bomb/Defuse
+by Esac & Iak (esac_iak@gmx.de)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the nuclear missile or the
+communication center.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the nuclear missile or
+the communication center.
+
+Other Notes: There are 2 bomb targets
+in the mission. 
+
+(Press FIRE to continue)
+                 
